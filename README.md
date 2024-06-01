@@ -9,7 +9,6 @@ This repository contains the implementation of a hybrid approach for recommendin
 - [Methodology](#methodology)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -35,6 +34,7 @@ Simulations
 Conducted using the SimPy framework.
 Parameters include cargo bike range, delivery times, and operational costs.
 Statistical Tests
+![Flowchart of Statistical test](Images/Stat-test-flow.png)
 Shapiro Test: Checks for normal distribution of data.
 Kruskal-Wallis H Test: Non-parametric test for statistical differences.
 ANOVA: Tests for differences within group data.
