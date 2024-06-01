@@ -45,5 +45,6 @@ Detailed simulation results and statistical analysis can be found in the results
 Optimal warehouse locations are identified based on minimal delivery costs and validated through statistical tests.
 
 ## Contributing
+The two separate folders that include the final code submission Jupiter notebook files are submitted. You may execute the code by choosing "restart and run all option" after unzipping the files. Since I have commented out the "multisimulation()" function after successfully generating and evaluating the results, it won't take long to run.
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.
 
