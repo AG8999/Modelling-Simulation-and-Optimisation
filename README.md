@@ -44,6 +44,6 @@ Tukey HSD and Post-Hoc Tests: Identify specific group differences.
 Detailed simulation results and statistical analysis can be found in the results directory.
 Optimal warehouse locations are identified based on minimal delivery costs and validated through statistical tests.
 
-##Contributing
+## Contributing
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.
 
